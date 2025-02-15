@@ -151,7 +151,7 @@ nav ul li a {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box shadow for depth */
     text-overflow: ellipsis;
     white-space: nowrap;
-    overflow: hidden;
+    
 }
 
 .team-member img {
